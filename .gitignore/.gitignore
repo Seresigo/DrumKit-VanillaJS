@@ -1,0 +1,12 @@
+# IDE
+.idea/
+# Project
+dist/
+node_modules/
+common/
+# Other
+npm-debug.log
+yarn-error.log
+# dapp
+.dapp_secret_key
+.dapp_build
